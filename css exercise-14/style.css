@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(pattern.jpg);
+    background-repeat: repeat;
+    background-position: 960px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.main{
+    background-size: 960px;
+    background-color: white;
+    margin-top: remove;
+    margin-bottom: remove;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 10px 6px -6px #777;
+    
+}

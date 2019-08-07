@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+    background-color: gray;
+    text-align: center;
+    margin: auto;
+}
+a{
+    display: block;
+    text-align: center;
+    color: white;
+    text-decoration-line: none;
+    border-bottom: 1px solid;
+    padding: 10px;
+    text-transform: uppercase;
+
+}
+a:hover{
+    background-color: #eee;
+    color: gray;
+}

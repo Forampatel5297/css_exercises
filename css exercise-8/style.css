@@ -1,0 +1,35 @@
+html{
+    border-width: 1px;
+    border-style: solid;
+    border-color: purple;
+}
+body{
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+}
+div{
+    border-width: 1px;
+    border-style: solid;
+    border-color: blue;
+}
+p{
+    border-width: 2px;
+    border-color: green;
+}
+span{
+    border-width: 2px;
+    border-style: dashed;
+    border-color: brown;
+}
+a{
+    border-width: 2px;
+    border-style: dashed;
+    border-color: coral;
+ 
+}
+.radius{
+    border-width: 2px;
+    border-radius: 20px;
+    border-color: orange;
+}

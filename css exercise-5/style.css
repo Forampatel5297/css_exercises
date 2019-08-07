@@ -1,0 +1,9 @@
+a:link{color: red;}
+a:hover{color: orange;}
+a:visited{color: purple;} 
+h1::first-letter{color: black;}
+header h1{color: lime;}
+section h1{color: coral;}
+#ab{color: goldenrod;}
+li{color: deeppink;}
+#cd{color: black;}

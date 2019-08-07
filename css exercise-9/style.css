@@ -1,0 +1,36 @@
+body{
+    border: black 1px solid;
+    padding: 0px;
+    margin: 0px;
+
+}
+div{
+    border: red 1px solid;
+    padding: 10px;
+    margin: 10px;
+}
+span{
+    border: orange 1px solid;
+    padding: 10px;
+    margin: 10px;
+}
+.box{
+    width: 300px;
+    height: 100px;
+}
+.min{
+    width: 100px;
+    height: 10px;
+}
+.max{
+    width: 200px;
+    height: 40px;
+}
+.center{
+    width: 300px;
+    margin: auto;
+}
+.inline-center{
+    text-align: center;
+    }
+
